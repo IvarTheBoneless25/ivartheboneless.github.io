@@ -5,21 +5,13 @@ theme: jekyll-theme-midnight
 author: Ivar The Boneless
 url:
 
+sass:
+    style: compressed
+    
 footer-links:
   email: ivar_the_boneless@tuta.io
   github: IvarTheBoneless25
   twitter: IvarThe29191612
-
-footer_links:
-  - title: Mail
-    url: ivar_the_boneless@tuta.io
-    icon: fab fa-twitter
-  - title: Twitter
-    url: https://twitter.com/IvarThe29191612
-    icon: fab fa-twitter
-  - title: GitHub
-    url: https://github.com/IvarTheBoneless25
-    icon: fab fa-github
     
 defaults:
   - scope:
